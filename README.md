@@ -1,4 +1,5 @@
 # daily-cool-stuff
-check read me
+click below
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+https://67ultralord.github.io/daily-cool-stuff/
 
-<iframe src="https://inv.tux.rs" style="width:100%; height:100vh; border:none;"></iframe>
